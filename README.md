@@ -1,11 +1,11 @@
-<h1 •IP Information Tool </h1><br>
+<h1 align="left">•IP Information Tool > </h1><br>
 <h4 align="left">TESTED ON > </h4><br>
 
 * Kali Linux
 * Termux
 * Mac os
 * Ubuntu
-* Perrot Sec OS
+* Peyrrot Sec OS
 
 ## Contributing
 Feel Free To Clone This Project. For Major Changes, Please Open An Issue First To Discuss What You Would Like To Change Or Add, Thank You!!.
