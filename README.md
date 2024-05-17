@@ -1,4 +1,4 @@
-<h1 align="left">•IP Information Tool > </h1><br>
+<h1 align="left">•IP Information Tool </h1><br>
 <h4 align="left">TESTED ON > </h4><br>
 
 * Kali Linux
